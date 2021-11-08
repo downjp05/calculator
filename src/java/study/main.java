@@ -7,5 +7,9 @@ public class Study {
   private static void print() {
     System.out.println("Welcome...");
   }
+  
+  private static int add(int a, int b) {
+    return a + b;
+  }
 
 }
