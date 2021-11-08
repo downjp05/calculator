@@ -4,4 +4,8 @@ public class Study {
     System.out.println("hello!!~~abc + 123");
   }
 
+  private static int add(int a, int b) {
+    return a + b;
+  }
+
 }
